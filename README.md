@@ -4,8 +4,8 @@ This repo contains the official implementation of **"NAS-BNN: Neural Architectur
 
 ## Open source model and searched result
 
-- [Model](<>)
-- [Searched Result](<>)
+- [Model](https://github.com/VDIGPKU/NAS-BNN/releases/download/v0.0.1/checkpoint.pth.tar)
+- [Searched Result](https://github.com/VDIGPKU/NAS-BNN/releases/download/v0.0.1/info.pth.tar)
 
 ## Quick start
 
