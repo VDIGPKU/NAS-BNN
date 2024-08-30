@@ -1,6 +1,6 @@
-# NAS-BNN
+# NAS-BNN [[arXiv]](https://arxiv.org/abs/2408.15484)
 
-This repo contains the official implementation of **"NAS-BNN: Neural Architecture Search for Binary Neural Networks"**.
+This repo contains the official implementation of **["NAS-BNN: Neural Architecture Search for Binary Neural Networks"](https://arxiv.org/abs/2408.15484)**.
 
 ## Open source model and searched result
 
